@@ -1,0 +1,32 @@
+{
+    "name": "Shark Tank #8",
+    "description" : "Rainbow shark prince",
+    "image" : "ipfs://QmaUBMqL1Z84ik2D25b833shrTRjMmX7iXuHvzhwS95WYZ",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Pink Shark"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Brown Honeycomb vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Happy"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Gold Fin Rings"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Blue Imperial Crown"
+        },
+       
+        {
+            "trait_type" : "Skin",
+            "value" : "Boho"
+        }
+    ]
+}

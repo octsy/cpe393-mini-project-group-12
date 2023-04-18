@@ -1,0 +1,32 @@
+{
+    "name": "Shark Tank #18",
+    "description" : "Blue Shark with silver alpha headphones",
+    "image" : "ipfs://QmYwPxYDpWdJA6m2sFFY6dwzf4vjTfqmouivwxgYn34xXE",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Alpha Black"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Red Alpha T-Shirt"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "High"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Gold Punk Rings"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Silver Alpha Headphones"
+        },
+        
+        {
+            "trait_type" : "Skin",
+            "value" : "Damascus"
+        }
+    ]
+}

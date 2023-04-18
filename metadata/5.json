@@ -1,0 +1,31 @@
+{
+    "name": "Shark Tank #5",
+    "description" : "clown shark",
+    "image" : "ipfs://QmVQeMUczedGQASysyZTRbkZH5gSYQJyYaz1WZgKWYhKSx",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Spotlight Blue"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Oceanfall Night Suit"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "High"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "White Striped Hat"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Gold Cluster"
+        },
+        {
+            "trait_type" : "Skin",
+            "value" : "Boho"
+        }
+    ]
+}

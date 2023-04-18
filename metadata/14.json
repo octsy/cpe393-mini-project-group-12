@@ -1,0 +1,36 @@
+{
+    "name": "Shark Tank #14",
+    "description" : "Rainbow shark with top hat",
+    "image" : "ipfs://QmNzjZRcG4tt1McXZBwUGF3y2V62V89m88M4GiS1u3HcWB",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Alpha Yellow"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Hunk V Neck T-Shirt"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Crazy"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Gold Cluster"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Elephant Skin Hat"
+        },
+        {
+            "trait_type" : "Eye Wear",
+            "value" : "Gold Rocker Glasses"
+        },
+       
+        {
+            "trait_type" : "Skin",
+            "value" : "Boho"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Shark Tank #6",
+    "description" : "Lava shark mafia wearing winter clothes",
+    "image" : "ipfs://QmRzczZk3mTW27CmBhdGmzzguRa9YM5iuWZMQjXc2ejpFP",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Skull Yellow"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Snowstorm Fur Jacket"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Gold Alpha Headphones"
+        },
+        {
+            "trait_type" : "Mouth Gear",
+            "value" : "Mafia Pipe"
+        },
+        {
+            "trait_type" : "Skin",
+            "value" : "Lava Man"
+        }
+    ]
+}

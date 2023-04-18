@@ -1,0 +1,31 @@
+{
+    "name": "Shark Tank #3",
+    "description" : "A shark soldier and his sorting hat.",
+    "image" : "ipfs://QmeBmq3P4pP3syVnyi8xNkSyN1vj8SiRxoNEHGzWhe1eKo",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Shark Blue"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Black Tactical Vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "High"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Silver Punk Rings"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "White Spooky Witch Hat"
+        },
+        {
+            "trait_type" : "Skin",
+            "value" : "Orion "
+        }
+    ]
+}

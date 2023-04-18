@@ -1,0 +1,31 @@
+{
+    "name": "Shark Tank #4",
+    "description" : "Silver shark mafia with blue civic crown",
+    "image" : "ipfs://QmZ77wx7X6zWD4hPLz5hFCYaNY7tKt1gNvKppAbvWvV4bc",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Skull Green"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Brown Honeycomb Vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Blue Civic Crown"
+        },
+        {
+            "trait_type" : "Mouth Gear",
+            "value" : "Mafia Pipe"
+        },
+        {
+            "trait_type" : "Skin",
+            "value" : "Indiagenous"
+        }
+    ]
+}

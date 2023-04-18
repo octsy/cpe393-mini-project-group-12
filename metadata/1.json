@@ -1,0 +1,31 @@
+{
+    "name": "Shark Tank #1",
+    "description" : "Mafia Blue Shark of Moscow",
+    "image" : "ipfs://QmTz9j2st7WqpnK5QkhSGpMmxyWCEUkAzpq1w7dGR8JMmV",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Alha Blue"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Gold Fur Jacket"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Blue Striped Hat"
+        },
+        {
+            "trait_type" : "Mouth Gear",
+            "value" : "Mafia Pipe"
+        },
+        {
+            "trait_type" : "Skin",
+            "value" : "Rhincodon"
+        }
+    ]
+}

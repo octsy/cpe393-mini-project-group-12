@@ -1,0 +1,29 @@
+{
+    "name": "Shark Tank #9",
+    "description" : "Red shark wearing winter clothes and crown",
+    "image" : "ipfs://QmfGxvh494KDBrcFJuK7TbCrgY4GJvBs676Fwo5sxpbt6o",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Skull Green"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Gold Fur Jacket"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+   
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Blue Civic Crown"
+        },
+       
+        {
+            "trait_type" : "Skin",
+            "value" : "Scarlet"
+        }
+    ]
+}

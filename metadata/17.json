@@ -1,0 +1,36 @@
+{
+    "name": "Shark Tank #17",
+    "description" : "Shark with blue skarkpods max",
+    "image" : "ipfs://QmZ42JqP277Uv11Qj8AkKo5NxofXZbwB9dFAkmMDvDRQbX",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Skulls Pink"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Brown Buckle Vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Silver Fin Hoop"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Blue Sharkpods Max"
+        },
+        {
+            "trait_type" : "Mouth Cigar",
+            "value" : "Don Cigar"
+        },
+       
+        {
+            "trait_type" : "Skin",
+            "value" : "Orion"
+        }
+    ]
+}

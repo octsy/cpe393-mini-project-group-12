@@ -1,0 +1,35 @@
+{
+    "name": "Shark Tank #2",
+    "description" : "The godfather of red sharks of Soi 9",
+    "image" : "ipfs://Qmbr9eE1EkxrWVA1rsqG8MkqUh3m1wWzJaKZCtRLy6FmAQ",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Alpha Yellow"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Gray Honeycomb Vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Diamond Fin Rings"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Pink sharkpods Max"
+        },
+        {
+            "trait_type" : "Mouth Gear",
+            "value" : "Don Cigar"
+        },
+        {
+            "trait_type" : "Skin",
+            "value" : "Scarlet"
+        }
+    ]
+}

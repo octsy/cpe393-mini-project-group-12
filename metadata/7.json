@@ -1,0 +1,35 @@
+{
+    "name": "Shark Tank #7",
+    "description" : "Black shark gentleman",
+    "image" : "ipfs://QmT3bSmuXcKxzAStzscCxXTQg7JPwRbERb7tE5GXX5zuWG",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Pink Shark"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Grey Honeycomb Vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Diamond Stud Hoops"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Blue Long Horn Cowboy Hat"
+        },
+        {
+            "trait_type" : "Mouth Gear",
+            "value" : "Mafia Pipe"
+        },
+        {
+            "trait_type" : "Skin",
+            "value" : "AlphaKnight"
+        }
+    ]
+}

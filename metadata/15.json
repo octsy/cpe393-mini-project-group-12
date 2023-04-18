@@ -1,0 +1,32 @@
+{
+    "name": "Shark Tank #15",
+    "description" : "Blue shark in red dress with witch hat",
+    "image" : "ipfs://QmNNh1Uv7a7xpbyF7fUsXwQ89mddpvBDqxwxaDgpusES6W",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Alpha Black"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Red Honeycomb Vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Bored"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Silver Cluster"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Brown Spooky Witch Hat"
+        },
+       
+        {
+            "trait_type" : "Skin",
+            "value" : "Bull Shark"
+        }
+    ]
+}

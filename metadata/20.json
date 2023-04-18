@@ -1,0 +1,32 @@
+{
+    "name": "Shark Tank #20",
+    "description" : "Fantasy Shark with silver glasses",
+    "image" : "ipfs://QmQhRd6QvL8rL6UFtDNPu5hN9CuvxB7Gig3nWdNkjSfSib",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Alpha Black"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Blue Buckle Vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Gold Punk Rings"
+        },
+        {
+            "trait_type" : "Eye Wear",
+            "value" : "Silver Rocker Glasses"
+        },
+        
+        {
+            "trait_type" : "Skin",
+            "value" : " Boho"
+        }
+    ]
+}

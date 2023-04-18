@@ -1,0 +1,36 @@
+{
+    "name": "Shark Tank #13",
+    "description" : "Shark with cool sunglasses",
+    "image" : "ipfs://QmY1a6UZHcZW4uby8b58AhgxdhheXRusc6ewsiS1njyBAb",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Skulls Pink"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Neck Bling"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Diamond Fin Ring"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Blue Civic Crown"
+        },
+        {
+            "trait_type" : "Eye Wear",
+            "value" : "Gold Rocker Glasses"
+        },
+       
+        {
+            "trait_type" : "Skin",
+            "value" : "Thresher"
+        }
+    ]
+}

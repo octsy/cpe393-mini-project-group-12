@@ -1,0 +1,32 @@
+{
+    "name": "Shark Tank #19",
+    "description" : "Black shark with rainbow jacket",
+    "image" : "ipfs://QmRqprYLBf5YPKENFwjiRgGAVMQoMsZCVz4ytpfKCsw2Ln",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Alpha Black"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Tiedye Anchor Hoodie"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Mouth Gear",
+            "value" : "Don Cigar"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Gold Stud Hoops"
+        },
+
+        {
+            "trait_type" : "Skin",
+            "value" : "Red Matrix"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Shark Tank #16",
+    "description" : "Prince Shark in Red Dress",
+    "image" : "ipfs://QmYMUUc3PHDWD91PC3uYr2FPwZTzwJBGrC6eoXz2yMuirT",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Alpha Black"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Crimson Cyberpunk Vest"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Gold Stud Hoops"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Blue Imperial Crown"
+        },
+        {
+            "trait_type" : "Mouth Cigar",
+            "value" : "Don Cigar"
+        },
+       
+        {
+            "trait_type" : "Skin",
+            "value" : "Scarlet"
+        }
+    ]
+}

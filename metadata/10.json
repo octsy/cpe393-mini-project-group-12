@@ -1,0 +1,43 @@
+{
+    "name": "Shark Tank #10",
+    "description" : "The fire-striped millionaire shark wears a sorting hat.",
+    "image" : "ipfs://QmRzczZk3mTW27CmBhdGmzzguRa9YM5iuWZMQjXc2ejpFP",
+    "attributes" : [
+        {
+            "trait_type" : "BG",
+            "value" : "Spotlight Blue"
+        },
+        {
+            "trait_type" : "Chain",
+            "value" : "Gold Gangsta Chain"
+        },
+        {
+            "trait_type" : "Clothes",
+            "value" : "Gold Alpha T-Shirt"
+        },
+        {
+            "trait_type" : "Expression",
+            "value" : "Angry"
+        },
+        {
+            "trait_type" : "Fin Jewel",
+            "value" : "Silver Cluster"
+        },
+        {
+            "trait_type" : "Head Gear",
+            "value" : "Brown Spooky Witch Hat"
+        },
+        {
+            "trait_type" : "Mouth Gear",
+            "value" : "Mafia Pipe"
+        },
+        {
+            "trait_type" : "Nose Jewel",
+            "value" : "Diamond Atoll Nose Pin"
+        },
+        {
+            "trait_type" : "Skin",
+            "value" : "Lava Man"
+        }
+    ]
+}
